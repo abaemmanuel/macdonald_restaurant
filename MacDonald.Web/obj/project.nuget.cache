@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "rjeBbmL/crICsrk1j+OR3DcuW5RT15095ooa09s7zAEfNnoGf7XQ8WiHD7LCdX1SN0TtCktj8Wpdjre371ugEw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Abax\\source\\repos\\MacDonald\\MacDonald Restaurant\\MacDonald.Web\\MacDonald.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Abax\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
